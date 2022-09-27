@@ -1,4 +1,4 @@
-# IPBA_BYOP
+# Historical Sales and Active Inventory
 
 The file contains historical sales data (identified with the column titled File_Type) along with current active inventory that is in need of evaluation (i.e., File Type = "Active"). The historical data shows sales for the past 6 months. The binary target (1 = sale, 0 = no sale in past six months) is likely the primary target that should drive the analysis.
 
